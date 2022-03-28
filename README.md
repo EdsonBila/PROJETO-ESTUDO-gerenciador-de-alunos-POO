@@ -1,4 +1,4 @@
-<h1 align="center">PROJETO DE UM GERENCIADOR DE ALUNOS BASICO(ESTUDO)</h1>
+<h1 align="center">PROJETO DE UM GERENCIADOR DE ALUNOS BASICO(ESTUDO POO)</h1>
 <h4 align="center"> 
 	🚧  Ainda postando conteudos 🚧
 </h4>
