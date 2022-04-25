@@ -19,4 +19,7 @@
 	<li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="20" height="20"/> Visual Studio Code</li>
   <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20" height="20"/> MySQL Workbench</li>
 </ul>	
+<h1>Autores</h1>
+
+- [Edson Bila dos Santos Junior](https://www.github.com/EdsonBila)
 
